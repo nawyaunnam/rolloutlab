@@ -1,0 +1,379 @@
+{
+  "mode": "live fetch",
+  "generated_at": "2026-09-22T01:21:20.640618+00:00",
+  "sources": [
+    {
+      "url": "https://api.github.com/events?per_page=100",
+      "fetched_at": "2026-09-22T01:21:20.634854+00:00"
+    }
+  ],
+  "result": {
+    "project": "RolloutLab",
+    "real_repositories": 99,
+    "enabled_at_25_percent": 26,
+    "enabled_at_50_percent": 51,
+    "cohort_preserved": true,
+    "decisions": [
+      {
+        "repository": "20021123bill/myoicl-bus",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 6678
+        }
+      },
+      {
+        "repository": "6ZoSo9/void-node",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 803
+        }
+      },
+      {
+        "repository": "Aksshay88/Aksshay88",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 5360
+        }
+      },
+      {
+        "repository": "Alexhlindq/vinted-bot",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 7914
+        }
+      },
+      {
+        "repository": "Alperrusul123a/prompt-optimizer",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 8708
+        }
+      },
+      {
+        "repository": "ArchitectFill/repo-g0eplmjt",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 6329
+        }
+      },
+      {
+        "repository": "BiddieGafa259666/quiet-forest-1472",
+        "at_25_percent": false,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 4802
+        }
+      },
+      {
+        "repository": "CleverAIFox/fire-lane",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 6209
+        }
+      },
+      {
+        "repository": "DebugNova/Angel-s-Judgement-Discord-bot",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 8105
+        }
+      },
+      {
+        "repository": "EnvPlane/deploy",
+        "at_25_percent": false,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 4086
+        }
+      },
+      {
+        "repository": "FedeGG09/StudiobyFitz",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 6290
+        }
+      },
+      {
+        "repository": "Flouviamx/flouvia-cord",
+        "at_25_percent": false,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 2543
+        }
+      },
+      {
+        "repository": "Gautier242/portfolio",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 1361
+        }
+      },
+      {
+        "repository": "Gwbber/Agendamento---coletas",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 5178
+        }
+      },
+      {
+        "repository": "ITK03/Stock_open_news",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 7937
+        }
+      },
+      {
+        "repository": "Isidro1234/-isidrozau-react-voice-gemini-live",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 9087
+        }
+      },
+      {
+        "repository": "JSL107/personal_agents",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 654
+        }
+      },
+      {
+        "repository": "JacobB14210/Team-Presence-Tracker",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 631
+        }
+      },
+      {
+        "repository": "JoeMartis/ULdocs",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 8564
+        }
+      },
+      {
+        "repository": "JoeMof80/favpoll",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 7420
+        }
+      },
+      {
+        "repository": "Leonxlnx/zeldaremake",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 8178
+        }
+      },
+      {
+        "repository": "Manishpoonam/NariSuraksha",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 1476
+        }
+      },
+      {
+        "repository": "Nathanamarante/Computing-Environments-Exercise",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 826
+        }
+      },
+      {
+        "repository": "NeuroOlga/yuuno-tmp-assets",
+        "at_25_percent": false,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 3742
+        }
+      },
+      {
+        "repository": "Nick-Machiavelli/Gustavo",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 658
+        }
+      },
+      {
+        "repository": "NixOS/nixpkgs",
+        "at_25_percent": false,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 3106
+        }
+      },
+      {
+        "repository": "NovosadovO/morning-report",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 1526
+        }
+      },
+      {
+        "repository": "Opetushallitus/ludos",
+        "at_25_percent": false,
+        "at_50_percent": false,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": false,
+          "reason": "percentage",
+          "bucket": 9901
+        }
+      },
+      {
+        "repository": "PitchAlbatross/repo-rlhen0f5",
+        "at_25_percent": false,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 4604
+        }
+      },
+      {
+        "repository": "PyreCoin/PyreCoin",
+        "at_25_percent": true,
+        "at_50_percent": true,
+        "decision": {
+          "flag": "event-enrichment",
+          "version": 2,
+          "enabled": true,
+          "reason": "percentage",
+          "bucket": 2394
+        }
+      }
+    ]
+  }
+}

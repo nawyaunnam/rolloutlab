@@ -1,0 +1,14 @@
+test_cohort_distribution (test_engine.RolloutTests.test_cohort_distribution) ... ok
+test_invalid_and_boundaries (test_engine.RolloutTests.test_invalid_and_boundaries) ... ok
+test_monotonic_cohorts (test_engine.RolloutTests.test_monotonic_cohorts) ... ok
+test_override_precedence (test_engine.RolloutTests.test_override_precedence) ... ok
+test_stability_and_weight_order (test_engine.RolloutTests.test_stability_and_weight_order) ... ok
+test_targeting (test_engine.RolloutTests.test_targeting) ... ok
+test_atomic_report_roundtrip (test_feeds.FeedTests.test_atomic_report_roundtrip) ... ok
+test_network_failure_is_not_synthetic_fallback (test_feeds.FeedTests.test_network_failure_is_not_synthetic_fallback) ... ok
+test_nonfinite_output_rejected (test_feeds.FeedTests.test_nonfinite_output_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.034s
+
+OK

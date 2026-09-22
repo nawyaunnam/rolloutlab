@@ -1,0 +1,61 @@
+{
+  "decisions": [
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": false,
+      "reason": "percentage",
+      "bucket": 3076
+    },
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": true,
+      "reason": "percentage",
+      "bucket": 341
+    },
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": false,
+      "reason": "percentage",
+      "bucket": 3031
+    },
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": false,
+      "reason": "percentage",
+      "bucket": 6633
+    },
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": true,
+      "reason": "percentage",
+      "bucket": 834
+    },
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": false,
+      "reason": "percentage",
+      "bucket": 3503
+    },
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": false,
+      "reason": "percentage",
+      "bucket": 8696
+    },
+    {
+      "flag": "new-search",
+      "version": 2,
+      "enabled": false,
+      "reason": "percentage",
+      "bucket": 6626
+    }
+  ],
+  "experiment": "control"
+}
